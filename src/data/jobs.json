@@ -1,0 +1,184 @@
+{
+  "featuredJobs": [
+    {
+      "id": 1,
+      "title": "Quality Control Associate (CAR-T)",
+      "company": "Dr. Reddy's Laboratories",
+      "type": "Full Time",
+      "jobMode": "In Office job",
+      "experience": "6 - 12 Years",
+      "location": "Bengaluru / Bangalore / India"
+    },
+    {
+      "id": 2,
+      "title": "SUPPLIER BUSINESS MANAGER",
+      "company": "Orbit & Skyline",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "5 - 10 Years",
+      "location": "Mohali | Chandigarh / India"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer - Big Blue Button integration",
+      "company": "Waytogo Consultants",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "1 - 6 Years",
+      "location": "Hyderabad - Secunderabad / India"
+    },
+    {
+      "id": 4,
+      "title": "Telecaller-cum-TechSupport EXECUTIVE Rs18K,MUM,BLR",
+      "company": "SanSoft InfoTech",
+      "type": "Full Time - Permanent",
+      "jobMode": "Work From Home / WFH job",
+      "experience": "0 - 50 Years",
+      "location": "Bengaluru / Bangalore | Mumbai "
+    },
+    {
+      "id": 5,
+      "title": "Senior React Developer",
+      "company": "TechMatrix Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "Hybrid",
+      "experience": "4 - 8 Years",
+      "location": "Pune / Maharashtra / India"
+    },
+    {
+      "id": 6,
+      "title": "HR Manager - Talent Acquisition",
+      "company": "Global Staffing Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "8 - 12 Years",
+      "location": "Delhi NCR / India"
+    },
+    {
+      "id": 7,
+      "title": "Data Scientist - Machine Learning",
+      "company": "Analytics Hub",
+      "type": "Full Time - Permanent",
+      "jobMode": "Work From Home / WFH job",
+      "experience": "3 - 7 Years",
+      "location": "Any Location / India"
+    },
+    {
+      "id": 8,
+      "title": "Digital Marketing Specialist",
+      "company": "MarketEdge Pro",
+      "type": "Full Time",
+      "jobMode": "In Office job",
+      "experience": "2 - 5 Years",
+      "location": "Mumbai / Maharashtra / India"
+    },
+    {
+      "id": 9,
+      "title": "Cloud Solutions Architect",
+      "company": "CloudTech Systems",
+      "type": "Full Time - Permanent",
+      "jobMode": "Hybrid",
+      "experience": "7 - 12 Years",
+      "location": "Bengaluru / Karnataka / India"
+    },
+    {
+      "id": 10,
+      "title": "Business Analyst - Finance",
+      "company": "FinServ Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "4 - 8 Years",
+      "location": "Chennai / Tamil Nadu / India"
+    },
+    {
+      "id": 11,
+      "title": "DevOps Engineer",
+      "company": "InfraCloud Technologies",
+      "type": "Full Time - Permanent",
+      "jobMode": "Work From Home / WFH job",
+      "experience": "3 - 6 Years",
+      "location": "Any Location / India"
+    },
+    {
+      "id": 12,
+      "title": "Product Manager",
+      "company": "Innovation Labs",
+      "type": "Full Time",
+      "jobMode": "In Office job",
+      "experience": "5 - 9 Years",
+      "location": "Hyderabad / Telangana / India"
+    },
+    {
+      "id": 13,
+      "title": "UI/UX Designer",
+      "company": "Creative Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "Hybrid",
+      "experience": "2 - 6 Years",
+      "location": "Pune / Maharashtra / India"
+    },
+    {
+      "id": 14,
+      "title": "Sales Manager - Enterprise",
+      "company": "Tech Sales Pro",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "6 - 10 Years",
+      "location": "Mumbai / Maharashtra / India"
+    },
+    {
+      "id": 15,
+      "title": "Python Backend Developer",
+      "company": "CodeCraft Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "Work From Home / WFH job",
+      "experience": "3 - 7 Years",
+      "location": "Any Location / India"
+    },
+    {
+      "id": 16,
+      "title": "Content Marketing Manager",
+      "company": "Digital Narratives",
+      "type": "Full Time",
+      "jobMode": "In Office job",
+      "experience": "4 - 8 Years",
+      "location": "Bengaluru / Karnataka / India"
+    },
+    {
+      "id": 17,
+      "title": "Database Administrator",
+      "company": "DataCore Systems",
+      "type": "Full Time - Permanent",
+      "jobMode": "Hybrid",
+      "experience": "5 - 9 Years",
+      "location": "Delhi NCR / India"
+    },
+    {
+      "id": 18,
+      "title": "Quality Assurance Lead",
+      "company": "TestPro Solutions",
+      "type": "Full Time - Permanent",
+      "jobMode": "In Office job",
+      "experience": "7 - 12 Years",
+      "location": "Chennai / Tamil Nadu / India"
+    },
+    {
+      "id": 19,
+      "title": "Mobile App Developer - iOS",
+      "company": "AppStack Technologies",
+      "type": "Full Time - Permanent",
+      "jobMode": "Work From Home / WFH job",
+      "experience": "3 - 6 Years",
+      "location": "Any Location / India"
+    },
+    {
+      "id": 20,
+      "title": "Operations Manager",
+      "company": "BizOps Solutions",
+      "type": "Full Time",
+      "jobMode": "In Office job",
+      "experience": "8 - 12 Years",
+      "location": "Hyderabad / Telangana / India"
+    }
+  ]
+}
